@@ -1,16 +1,25 @@
-### Coming soon...
+Yaaay, I updated my profile README after 2 years! 🎉
 
-<!--
-**k-malkiewicz/k-malkiewicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Kamil Małkiewicz</h1>
+<p align="center">An average web dev enjoyer</p>
 
-Here are some ideas to get you started:
+## Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- **HTML5**
+- **CSS3**, **SCSS**, **SASS**
+- **JavaScript**, **TypeScript**
+### Web Frameworks & Libraries
+- **Angular** (v16 and above)
+- **Express.js**
+- **Mongoose**
+### Databases
+- **MongoDB** (with Atlas & Compass)
+### Tools & Environments
+- **Visual Studio Code**
+- **Git & Github**
+- **Node.js**
+- **Postman**
+
+## Note
+I'm NOT looking for work or collaboration. I build projects purely for personal growth and enjoyment.
